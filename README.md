@@ -9,4 +9,7 @@
 8. Using RandomizedSearchCV from Sklearn
 9. Useful Applications of the Project
 
+![image](https://github.com/Hackers-AD/spotify_song_popularity_prediction/assets/35804798/91305cb5-ba18-4875-94b5-38fda7f991da)
+
+
 ![image](https://github.com/Hackers-AD/spotify_song_popularity_prediction/assets/35804798/cbb7c101-e158-4f68-b578-a25b186d2338)
